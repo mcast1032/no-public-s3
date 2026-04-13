@@ -1,4 +1,4 @@
-# no-public-s3
+# Deny Public S3 Buckets
 A lightweight security check that prevents team from accidentally creating public AWS S3 buckets. Accomplished via policy as code with Rego, Conftest, and GitHub Codespaces.
 
 In this lab, I: 
